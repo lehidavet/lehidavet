@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou o Lehi Davet
 
-Profissional em **transição de carreira para Cibersegurança**, apaixonado por tecnologia e pelo mundo da segurança cibernética, após mais de 14 anos atuando como Executivo de Vendas B2B e Engenheiro Mecânico em segmentos industriais críticos. Hoje estou focado em construir uma base técnica sólida em segurança da informação e aplicar minha experiência prévia em ambientes corporativos reais.
+Profissional em transição para **Cibersegurança**, apaixonado por tecnologia e segurança cibernética, após 14+ anos como Executivo de Vendas B2B e Engenheiro Mecânico em segmentos industriais. 
+Atualmente em pós-graduação em Cibersegurança e bootcamp DIO + Riachuelo, focado em labs práticos (Kali, Metasploitable, DVWA) e automação em Python aplicada à segurança.  
+Trago forte visão de negócio, análise de causa raiz (Perito Judicial) e comunicação com áreas de negócio para atuar como ponte entre times técnicos e stakeholders.
 
 ---
 
