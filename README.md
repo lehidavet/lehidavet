@@ -8,13 +8,11 @@
 
 </div>
 
-Profissional em transição para **Cibersegurança**, apaixonado por tecnologia e segurança cibernética, após 14+ anos como Executivo de Vendas B2B e Engenheiro Mecânico em segmentos industriais.[attached_file:1]
+Profissional em transição para **Cibersegurança**, apaixonado por tecnologia e segurança cibernética, após 14+ anos como Executivo de Vendas B2B e Engenheiro Mecânico em segmentos industriais.
 
-Atualmente em **pós-graduação em Cibersegurança** e **bootcamp DIO + Riachuelo**, focado em labs práticos (Kali, Metasploitable, DVWA) e automação em Python aplicada à segurança.[attached_file:1]
+Atualmente em **pós-graduação em Cibersegurança** e **bootcamp DIO + Riachuelo**, focado em labs práticos (Kali, Metasploitable, DVWA) e automação em Python aplicada à segurança.
 
-Trago forte **visão de negócio**, **análise de causa raiz** (Perito Judicial) e **comunicação com áreas de negócio** para atuar como ponte entre times técnicos e stakeholders.[attached_file:1]
-
----
+Trago forte **visão de negócio**, **análise de causa raiz** (Perito Judicial) e **comunicação com áreas de negócio** para atuar como ponte entre times técnicos e stakeholders.
 
 ## 🚀 O que estou fazendo agora
 
@@ -23,21 +21,17 @@ Trago forte **visão de negócio**, **análise de causa raiz** (Perito Judicial)
 - 🛡️ Montagem de labs próprios com **Kali, Metasploitable e DVWA** para praticar pentest e hardening
 - 🐍 Estudos de **Python** aplicado a automação e segurança
 
----
-
 ## 🔐 Por que minha transição faz sentido
 
 Trago para a Cibersegurança competências desenvolvidas em mais de uma década de atuação:
 
 | Área | Experiência |
-|------|-------------|
-| 💼 **Negócios** | Vendas B2B complexas, ciclo longo, contratos de alto valor em setores industriais[attached_file:1] |
-| 🔍 **Análise** | Engenharia Mecânica, **Perito Judicial**, análise de causa raiz e laudos técnicos[attached_file:1] |
-| 📈 **Processos** | Certificação **Six Sigma Green Belt**, uso de dados e KPIs para tomada de decisão[attached_file:1] |
-| 🗣️ **Comunicação** | Tradução de linguagem técnica para decisores e stakeholders corporativos[attached_file:1] |
-| 🌍 **Idiomas** | Português nativo, **Inglês fluente**, Espanhol intermediário[attached_file:1] |
-
----
+|---|---|
+| 💼 **Negócios** | Vendas B2B complexas, ciclo longo, contratos de alto valor em setores industriais |
+| 🔍 **Análise** | Engenharia Mecânica, **Perito Judicial**, análise de causa raiz e laudos técnicos |
+| 📈 **Processos** | Certificação **Six Sigma Green Belt**, uso de dados e KPIs para tomada de decisão |
+| 🗣️ **Comunicação** | Tradução de linguagem técnica para decisores e stakeholders corporativos |
+| 🌍 **Idiomas** | Português nativo, **Inglês fluente**, Espanhol intermediário |
 
 ## 📚 Repositórios em Destaque
 
@@ -47,14 +41,13 @@ Laboratórios práticos de pentest com Nmap, Hydra, SQL Injection, XSS e anális
 ### 🔐 [Lab Brute Force - Medusa](https://github.com/lehidavet/lab-bruteforce-medusa-kali)
 Ataques de força bruta e password spraying em ambientes controlados (FTP/SMB).
 
+### 🦠 [Simulação de Malware em Python](https://github.com/lehidavet/simulacao-malware-python)
+Ransomware e Keylogger simulados em ambiente controlado, com foco em entender e mitigar ameaças reais.
+
 ### 📚 [NotebookLM Cybersecurity Notes](https://github.com/lehidavet/notebooklm-cybersecurity-notes)
 Notebook estratégico de estudos em cibersegurança com NotebookLM (Google AI).
 
----
-
 ## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -62,13 +55,9 @@ Notebook estratégico de estudos em cibersegurança com NotebookLM (Google AI).
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-</div>
-
 **Ferramentas de Pentest:** Nmap, Hydra, Medusa, Metasploit, Burp Suite, tcpdump  
 **Ambientes:** Kali Linux, Metasploitable, DVWA, VirtualBox  
 **Desenvolvimento:** Python, Bash, Markdown, Git/GitHub
-
----
 
 ## 🎯 Próximos passos
 
@@ -76,16 +65,10 @@ Notebook estratégico de estudos em cibersegurança com NotebookLM (Google AI).
 - 🤖 Ferramentas de automação para apoiar investigações e monitoramento
 - 📄 Documentação técnica e relatórios profissionais de segurança
 
----
-
 ## 💬 Contato
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lehidavet-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lehidavet)
-[![Email](https://img.shields.io/badge/Email-lehi__davet%40hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lehi_davet@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-lehidavet-black?style=for-the-badge&logo=github)](https://github.com/lehidavet)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lehidavet)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lehi_davet@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lehidavet)
 
 > 💡 Aberto a oportunidades em **Cibersegurança** (Analista Jr, SOC, Pentest Jr) e conexões com profissionais da área!
