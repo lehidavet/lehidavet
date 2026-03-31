@@ -62,6 +62,9 @@ Ataques de força bruta e password spraying em ambientes controlados (FTP/SMB).
 ### 🦠 [Simulação de Malware em Python](https://github.com/lehidavet/simulacao-malware-python)
 Ransomware e Keylogger simulados em ambiente controlado, com foco em entender e mitigar ameaças reais.
 
+### 🎯 [Phishing Controlado com Kali Linux e SEToolkit](https://github.com/lehidavet/phishing-controlado-kali-setoolkit)
+Laboratório educacional para simular um ataque de phishing em ambiente controlado, utilizando Kali Linux e a ferramenta SEToolkit.
+
 ### 📚 [NotebookLM Cybersecurity Notes](https://github.com/lehidavet/notebooklm-cybersecurity-notes)
 Notebook estratégico de estudos em cibersegurança com NotebookLM (Google AI).
 
