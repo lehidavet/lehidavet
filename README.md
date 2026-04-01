@@ -65,6 +65,9 @@ Ransomware e Keylogger simulados em ambiente controlado, com foco em entender e 
 ### 🎯 [Phishing Controlado com Kali Linux e SEToolkit](https://github.com/lehidavet/phishing-controlado-kali-setoolkit)
 Laboratório educacional para simular um ataque de phishing em ambiente controlado, utilizando Kali Linux e a ferramenta SEToolkit.
 
+### 🔒 [Simulação de Ransomware em Python](https://github.com/lehidavet/simulacao-ransomware-kali-python)
+Este projeto simula o funcionamento básico de um ransomware usando **Python** e a biblioteca `pyaes` para criptografia **AES-CTR**. O objetivo educacional é entender como ransomwares criptografam arquivos e como revertê-los com uma chave conhecida.
+
 ### 📚 [NotebookLM Cybersecurity Notes](https://github.com/lehidavet/notebooklm-cybersecurity-notes)
 Notebook estratégico de estudos em cibersegurança com NotebookLM (Google AI).
 
