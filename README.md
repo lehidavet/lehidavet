@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lehi Davet
 
-### 🔎 Buscando vagas Jr em SOC | Pentest | Analista de Segurança
+### 🔎 Buscando vagas Jr em SOC | Blue Team | Análise de logs e resposta a incidentes
 
 <div align="center">
 
